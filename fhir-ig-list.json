@@ -1,7 +1,6 @@
 {
   "guides": [
-    
-    ,{
+   {
       "name": "US Core",
       "category": "National Base",
       "npm-name": "hl7.fhir.us.core",
